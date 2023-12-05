@@ -4,7 +4,7 @@ connect-ExchangeOnline
 # Get all groups
 $groups = Get-UnifiedGroup -ResultSize Unlimited
 
-# Create empty array for output
+# initialize variable for group settings used for csv output later
 $groupsettings = @()
 
 # Loop through each group

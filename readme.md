@@ -7,7 +7,7 @@ This PowerShell script includes two scripts: one for auditing the problem and an
 ## Author
 Author: Connor Bescos
 Date: 12/4/2023
-Version: 0.01
+Version: 0.02
 
 
 ## Audit Example

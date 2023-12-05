@@ -4,6 +4,7 @@
 
 #The script can be run by opening a PowerShell session and running the following commands:
 # .\AddMissingSubscribers.ps1
+#The script will output a CSV file with the name missingSubscribers_YYYYMMDD_HHMMSS.csv, where YYYYMMDD_HHMMSS is the date and time the script was run.
 
 connect-ExchangeOnline
 
