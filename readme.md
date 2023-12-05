@@ -11,10 +11,10 @@ Version: 0.02
 
 
 ## Audit Example
-[Audit-Subscribers.ps1](./Audit-Subscribers.ps1)
+[Audit-Subscribers.ps1](./audit-subscribers.ps1)
 This command runs the audit script to identify the problem of maintaining subscribers in modern Microsoft 365 groups.
 
 ## Remediate Example
-[Remediate-Subscribers.ps1](./Remediate-Subscribers.ps1)
+[Remediate-Subscribers.ps1](./remediate-subscribers.ps1)
 This command runs the remediation script to fix the problem of maintaining subscribers in modern Microsoft 365 groups.
 #>
