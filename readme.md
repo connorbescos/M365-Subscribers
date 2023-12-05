@@ -4,9 +4,11 @@ This script is used to audit and remediate the problem of maintaining subscriber
 ## DESCRIPTION
 This PowerShell script includes two scripts: one for auditing the problem and another for remediation. The audit script helps identify the issue of maintaining subscribers in modern Microsoft 365 groups, while the remediation script provides a solution to fix the problem.
 
-## Author
+## Author Details
 Author: Connor Bescos
+
 Date: 12/4/2023
+
 Version: 0.02
 
 
